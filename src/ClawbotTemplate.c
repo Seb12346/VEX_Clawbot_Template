@@ -13,3 +13,10 @@ void openClaw();
 void closeClaw();
 void raiseArm(int ms);
 void lowerArm(int ms);
+
+//This is where all the stuff happens, you can call functions in here
+task main()
+{
+  //Like so:
+  //FUNCTION_NAME(PARAMETERS(IF ANY));
+}
